@@ -1,0 +1,30 @@
+.profile {
+    margin-bottom: 20px;
+  }
+  
+  .profile-heading {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .profile-details {
+    margin-bottom: 10px;
+  }
+  
+  .profile-description {
+    margin-top: 10px;
+  }
+  
+  .profile-update-form {
+    margin-top: 20px;
+  }
+  
+  .profile-update-form .submit-btn {
+    margin-top: 20px;
+  }
+  
+  .profile-update-form .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
